@@ -1,1 +1,0 @@
-const butts = document.querySelector('.butts');
